@@ -1,4 +1,4 @@
-# RogueMakeItems
+# Rogue Make Items
 
 Creates ItemFactory class based on text file for roguelike project. Makes adding items to the game easier, and since there are going to be a lot of items I have streamlined this process early on.
 
