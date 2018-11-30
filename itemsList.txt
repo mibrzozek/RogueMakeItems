@@ -1,0 +1,51 @@
+// Item List
+// Method Name 	@
+// Char number 	#
+// Color 		$
+// Type 		%
+// Name 		^
+// Description	&
+// Attack		*
+// Defense		~
+// Value		+
+// Following are all the items
+reflectiveShall
+121
+brightBlue
+STEALTH
+Reflective Shall
+A loose shall which drapes over your neck and reflects all the light the hits it.
+0
+0
+25
+//
+sparklingBoots
+121
+brightBlue
+STEALTH
+Sparkling Boots
+Some glittery sparkling boots have found you, and now it's time to find yourself!
+0
+0
+10
+//
+tunnelAxe
+121
+brightBlue
+DEVICE
+Tunneling Axe
+It sports a nice grip, and an even nicer blade. It's sharp so be carefull. It will cut metal, wood, dirt, enemies, allies, and anything else that gets in its way. It's a damn sharp thing, and it's a force to be reckoned with.
+10
+10
+0
+//
+discoBall
+121
+brightblue
+WEAPON
+Disco Ball
+An egg shaped disco ball. Some groovy bird bust've given birth to this thing
+30
+0
+0
+//
