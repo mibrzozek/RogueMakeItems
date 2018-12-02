@@ -37,15 +37,55 @@ Tunneling Axe
 It sports a nice grip, and an even nicer blade. It's sharp so be carefull. It will cut metal, wood, dirt, enemies, allies, and anything else that gets in its way. It's a damn sharp thing, and it's a force to be reckoned with.
 10
 10
-0
+1
 //
 discoBall
 121
-brightblue
+brightBlue
 WEAPON
 Disco Ball
-An egg shaped disco ball. Some groovy bird bust've given birth to this thing
+An egg shaped disco ball. Some groovy bird must've given birth to this thing, groovy.
 30
 0
 0
+//
+nanoSword
+121
+brightBlue
+WEAPON
+Nano Sword
+A sword made of nano bots! It slices, it shoots, and it's pretty smart.
+30
+0
+30
+//
+bioLard
+121
+brightBlue
+CONSUMABLE
+Bio Lard
+Some kind of lab grown fat. It's more like lard than butter. Akin to coconut oil but clearer and denser. It tastes like you're drinking water and brushing your teeth, in a good way.
+0
+0
+15
+//
+roseBerkinstocks
+121
+brightBlue
+LEGS
+Rose Berkinstocks
+Some fine rose colored birkenstocks. They have a mustard stain near the zipper.
+0
+0
+15
+//
+plasmaAxe
+121
+brightBlue
+DEVICE
+Plasma Axe
+A nifty tool. Cuts through rocks pretty damn good. Fueled by plasma and a quest for a better future.
+0
+0
+3
 //
