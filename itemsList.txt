@@ -1,91 +1,655 @@
-// Item List
-// Method Name 	@
-// Char number 	#
-// Color 		$
-// Type 		%
-// Name 		^
-// Description	&
-// Attack		*
-// Defense		~
-// Value		+
-// Following are all the items
+// ******************          Item List               *******************
+//
+// Method Name 	@       1
+// Char number 	#       2
+// Color 		$       3
+// Type 		%       4
+// Name 		^       5
+// Description	&       6
+// Value		*       7
+// Rarity       +       8
+//
+// ******************   Following are all the items    *******************
+//
+//
+//
+//
 reflectiveShall
-121
-brightBlue
+29
+purple
 STEALTH
 Reflective Shall
-A loose shall which drapes over your neck and reflects all the light the hits it.
-0
-0
+A loose shall which drapes over your neck and reflects all the light that hits it.
 25
+COMMON
 //
 sparklingBoots
 121
-brightBlue
+purple
 STEALTH
 Sparkling Boots
 Some glittery sparkling boots have found you, and now it's time to find yourself!
-0
-0
 10
+COMMON
 //
 tunnelAxe
 121
-brightBlue
+monoPurple
 DEVICE
 Tunneling Axe
 It sports a nice grip, and an even nicer blade. It's sharp so be carefull. It will cut metal, wood, dirt, enemies, allies, and anything else that gets in its way. It's a damn sharp thing, and it's a force to be reckoned with.
 10
-10
-1
+COMMON
 //
 discoBall
 121
-brightBlue
+monoRed
 WEAPON
 Disco Ball
 An egg shaped disco ball. Some groovy bird must've given birth to this thing, groovy.
 30
-0
-0
+COMMON
 //
 nanoSword
 121
-brightBlue
+monoRed
 WEAPON
 Nano Sword
 A sword made of nano bots! It slices, it shoots, and it's pretty smart.
 30
-0
-30
+COMMON
 //
 bioLard
 121
-brightBlue
+green
 CONSUMABLE
 Bio Lard
 Some kind of lab grown fat. It's more like lard than butter. Akin to coconut oil but clearer and denser. It tastes like you're drinking water and brushing your teeth, in a good way.
-0
-0
 15
+COMMON
 //
 roseBerkinstocks
 121
-brightBlue
+pink
 LEGS
 Rose Berkinstocks
 Some fine rose colored birkenstocks. They have a mustard stain near the zipper.
-0
-0
 15
+COMMON
 //
 plasmaAxe
 121
-brightBlue
+monoPurple
 DEVICE
 Plasma Axe
 A nifty tool. Cuts through rocks pretty damn good. Fueled by plasma and a quest for a better future.
-0
-0
 3
+COMMON
+//
+peaShooter
+121
+red
+GUN
+Pea Shooter
+A nice little pocket gun. It shoots peas, as expected. It doesn't do a lot of damage but it might feed your opponent!
+5
+COMMON
+//
+pistol
+234
+red
+GUN
+Pistol
+Standard issue P two nine eleven. The P2911 is beautifully crafted by expert craftsmen and balanced by top engineers for stability, accuracy and maximum zuc. Great for destroying NPCS!
+25
+COMMON
+//
+rifle
+234
+red
+GUN
+Rifle
+Standard issue lever action rifle designed by the Northingham Corporation and printed by your local 3D printer. The laser lever reloads the chamber extremely effectively always does so at the wrong time.
+60
+COMMON
+//
+shotgun
+234
+red
+GUN
+Shotgun
+Standard issue auto shotgun developed by the Free Planet Militia. Designed to liberate two shells at a time for maximum spread and home defense. Best used at close range.
+35
+COMMON
+//
+cyberneticSyringe
+127
+monoGreen
+MELEE
+Cybernetic Syringe
+A junkie needle. Blunt like a butter knife, and dirty like the underside of a dead plasma rat. Good for shooting up and passing around diseases.
+15
+COMMON
+//
+spoiledPlasma
+92
+cyan
+BAD_PLASMA
+Spoiled Plasma
+A small plasma pod used by some junkie. The plasma seems unstable. Probably produces a great high. Probably why the junkie lost his plasma in the first place.
+15
+COMMON
+//
+waterCannon
+121
+red
+GUN
+Water Cannon
+A machine which bonds two hydrogen molecules with one oxygen molecule to produce the most basic fire extinguishing liquid
+30
+COMMON
+//
+oxygenMask
+121
+paperBlue
+OXYGEN
+Oxygen Mask
+A bio mask which feeds off of carbon dioxide to produce fresh air.
+100
+COMMON
+//
+dirtBrick
+121
+brown
+BRICK
+Dirt Brick
+A deep brown dirt brick. It's tough, and good for making internal walls, but brittle. Will crumble under enough pressure.
+1
+COMMON
+//
+blueVisor
+121
+perfectBlue
+VISION
+Blue Light Visor
+A blue light visor to fit into any strandard NPS.
+15
+COMMON
+//
+redVisor
+121
+perfectBlue
+VISION
+Red Light Visor
+A red light visor with standard NPS attachment device and vision clearing AI chip
+20
+COMMON
+//
+GR7
+121
+monoYellow
+INVENTORY
+GR7 Mk2 Tactical Bag
+American made, bullet proof, 35 liter capacity all purpose tactical bag. Nano stitching allows 200lb support on each thread. Fire proof.
+35
+COMMON
+//
+GR5
+121
+monoYellow
+INVENTORY
+GR5 Tactical Bag
+American made, bullet proof, 20 liter capacity all purpose tactical bag.
+20
+COMMON
+//
+GR2
+121
+monoYellow
+INVENTORY
+GR7 Tactical Bag
+American made, bullet proof, 30 liter capacity all purpose tactical bag. Fire proof.
+30
+COMMON
+//
+bandages
+127
+paperGreen
+HEALING
+Brite Aid Bandages
+Two sticky sides and an absorbent middle. Comes with many skin tone choices. Durable and good for healing small wounds.
+50
+COMMON
+//
+firstAid
+127
+paperGreen
+HEALING
+First Aid Kit
+Gauze. Anesthetic. Probiotic. Sanitizing Alcohol. Needle. Pliers. Nano thread.
+150
+COMMON
+//
+medicinal
+127
+paperGreen
+PASSIVE_HEALING
+Medicinal Herb
+A synthesized lab grown medicine bio herb which heals slowly over time when smokes or sprinkled into small wounds.
+5
+COMMON
+//
+conKit
+127
+paperGreen
+HEAD_HEALING
+Concussion Kit
+Nano compressed neck brace and brain stimulator. Neck brace administers local anesthetic to the back of the neck and connect directly to spine to facilitate brain repair.
+500
+COMMON
+//
+helmet1
+234
+manaBlue
+HELMET
+EVA Helmet
+Standard EVA helmet. Looks good and will keep the pressure good.
+3
+COMMON
+//
+helmet2
+234
+manaBlue
+HELMET
+Dome Helmet
+Dome helmet design for panoramic viewing. Hologram and display casting possible.
+5
+COMMON
+//
+helmet3
+234
+manaBlue
+HELMET
+Fractal Helmet
+Air tight. Fractal structural design. 220 degree visor with holographic displays. Rated most comfortable helmet by the Hitch Hikers Guide to the Galaxy.
+8
+COMMON
+//
+clearanceGold
+173
+monoYellow
+GOLD
+Gold Card
+A circuit like design runs around the bezel of the clearance card. A single biometric identity chip sits at the center of it. A true work of art, and a key into every room.
+6
+COMMON
+//
+basicAiUnit
+167
+manaBlue
+AI_CHIP
+I900 AI Chip
+Top of the line AI chip for the NewMan Mk5 Droid made by RBT. Slides right into an AI assembly block and any Mk5 droid. Balanced to be tolerable by humans but still completely conscience and intelligent.
+10
+COMMON
+//
+cortexChip
+167
+monoPerfect
+AI_ATTACHMENT
+Cortex Facilitator
+An AI chip attachment which gives the system meaning. Comes with 12 presets for perfect maintenance routines/
+10
+COMMON
+//
+memModule
+167
+monoPerfect
+AI_ATTACHMENT
+Instant Memory Module
+A quantum memory module designed for efficient memory storage.
+10
+COMMON
+//
+neuronExten
+167
+monoPerfect
+AI_ATTACHMENT
+Neuron Extension
+An array of thousands of cybernetic mesh neurons which plug directly into the neural link.
+10
+COMMON
+//
+neuralLink
+101
+manaBlue
+AUGMENTATION
+Neural Link
+The connecting piece between the human brain and an AI chip designed to manage it. Requires a spine port to be active.
+10
+COMMON
+//
+invisibilityCloak
+131
+purple
+STEALTH
+Cloak of Shadows
+It's better than being seen!
+50
+RARE
+//
+StickOfRam
+95
+brown
+PART
+Stick of Ram
+A good ole standard 1 terabyte stick of dual channel ram.
+500
+COMMON
+//
+HeatShieldShard
+95
+brown
+PART
+Heat Shield Shard
+A shard of a thermal shield layer typically found on C class spaceships.
+100
+RARE
+//
+plasmaJuice
+5
+cyan
+PLASMA
+Plasma Juice
+A nifty little plasma device which fits a whole lot of plasma into a whole little of space.
+500
+UNCOMMON
+//
+plasmaPod
+249
+cyan
+APLASMA
+Plasma Pod
+A pod of plasma. Don't eat it or you might die from gastrointestinal problems.
+500
+UNCOMMON
+//
+plasmaPack
+253
+cyan
+APLASMA
+Plasma Pack
+Seven plasma pods hanging out together make a plasma pack!
+700
+UNCOMMON
+//
+miningBeam
+101
+gray
+MINING
+Mining Beam
+Standardized industrial mining beam. It's good for cutting rocks.
+20
+COMMON
+//
+wallBomb
+121
+monoPurple
+DEVICE
+Wall Bomb
+Fires a directed and very powerful plasma blast into the wall upon which it was attached. Ideal tunneling tool.
+20
+UNCOMMON
+//
+devSword
+234
+red
+GUN
+Dev Sword
+A developmental tool which has transcended many compilers, squashed many bugs, and ultimately killed all the foes of the Starborn Alliance.
+10000
+ONE_OF_A_KIND
+//
+macroUzi
+234
+red
+GUN
+Macro Uzi
+A plasma UZI in the macro variety. Everything you loved about the micro, stuffed in a same sized package with macro capabilities.
+100
+UNCOMMON
+//
+scopedRifle
+234
+red
+GUN
+Scoped Rifle
+A classic rifle with a good ranged scope. Will kill an enemy form far away while keeping you out of danger.
+50
+UNCOMMON
+//
+paperBook
+1
+cyan
+PAPER_BOOK
+Paper Book
+You've come across a relic of an old world. A piece from the core. It's symbols scribed on the front mean nothing to you.
+1000
+ONE_OF_A_KIND
+//
+fullHeal
+127
+green
+FULL_HEAL
+Adrenaline Regulator
+Instructions : Place regulator at the back of the neck. Once light is green the regulator is aligned with the spinal cord, hit the apple button and relax, this might hurt for a second.
+1000
+RARE
+//
+blueClearance
+173
+blue
+BLUE_CARD
+Blue Clearance
+Blue clearance chip. This will open most doors, but looks like it's falling apart quickly.
+10
+UNCOMMON
+//
+stealthDevice
+29
+purple
+STEALTH
+Stealth Knick Knack
+Martian stealth cloaking technology. Works really well for helping you not be seen.
+100
+RARE
+//
+turkey
+1
+yellow
+TURKEY
+Fresh Turkey Carcass
+Freshly shot, good sized 29lb Turkey. Free range and non gmo grass fed Wagyura Farms.
+1000
+UNCOMMON
+//
+armor1Chest
+191
+darkerGray
+ARMOR
+Leather Chest Piece
+A tough synthetic patch of leather which straps to the chest piece
+20
+COMMON
+//
+fragGrenade
+67
+green
+UTILITY
+Frag Grenade
+Standard issue military grenade. 4 second timer with a tastefully gold pin.
+5
+COMMON
+//
+smokeGrenade
+67
+green
+UTILITY
+Smoke Grenade
+Standard issue space marine smoke grenade. 3 second timer.
+5
+COMMON
+//
+pickAxe
+67
+green
+MINING
+Pick Axe
+Some soft metal at the end of an old stick.
+35
+COMMON
+//
+longBow
+69
+blue
+RANGED
+Long Bow
+A well crafted bow. Elvish design.
+100
+COMMON
+//
+quiver
+69
+blue
+BOW
+Quiver
+A dark leather quiver good to hold 20 arrows. Elvish design.
+20
+COMMON
+//
+arrow
+30
+blue
+ARROW
+Basic Arrow
+A stick with a sharp metal point at the end.
+100
+COMMON
+//
+clothPack
+89
+white
+INVENTORY
+Cloth Sack
+A cloth sack with 2 large pockets for storage
+5
+COMMON
+//
+farmAxe
+10
+red
+AXE
+Farmers Axe
+A sturdy farmers axe. Will cut many a tree.
+45
+COMMON
+//
+timber
+10
+brown
+TIMBER
+Pile of Timber
+Good raw timber. Perfect for crafting.
+100
+COMMON
+//
+ore
+10
+gray
+ORE
+Ore
+Good raw ore. Perfect for crafting.
+100
+COMMON
+//
+terrainMapper
+10
+gray
+DEVICE
+Terrain Mapper
+A echo response terrain mapper good for identifying the area around you.
+100
+RARE
+//
+clearanceRed
+173
+red
+RED
+Red Card
+A circuit like design runs around the bezel of the clearance card. A single biometric identity chip sits at the center of it. A true work of art, and a key into the red room.
+100
+RARE
+//
+visorDehazer
+56
+purple
+VISION
+Visor Dehazer
+A dehazer desgined to increae your vision through the visor.
+15
+COMMON
+//
+opticalMagnifier
+56
+purple
+VISION
+Optical Magnifier
+Visor attachement which allows for optical magnification.
+20
+COMMON
+//
+rustyKnife
+56
+red
+MELEE
+Rusty Knife
+A rusty shank. Good for shanking.
+30
+COMMON
+//
+surgeryKit
+127
+green
+HEALTH
+Surgery Kit
+Comprehensive kit for all things surgery.
+10
+COMMON
+//
+medicalKit
+127
+green
+FULL_HEAL
+Medical Kit
+Comprehensive kit for all types of wounds and damages caused to soft tissue.
+100
+RARE
+//
+clearanceGreen
+173
+green
+GREEN
+Green Card
+A circuit like design runs around the bezel of the clearance card. A single biometric identity chip sits at the center of it. A true work of art, and a key into the green room.
+2
+RARE
+//
+aluSplint
+127
+green
+SPLINT
+Aluminum Splint
+A sturdy splint. Good for improving mobility while on a fractured limb.
+2
+COMMON
 //
