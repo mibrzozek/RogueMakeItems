@@ -587,7 +587,7 @@ red
 RED
 Red Card
 A circuit like design runs around the bezel of the clearance card. A single biometric identity chip sits at the center of it. A true work of art, and a key into the red room.
-100
+1
 RARE
 //
 visorDehazer
