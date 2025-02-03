@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82100998-2ed8-41ec-8543-eb7d1ad7f6e9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemsList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/itemsList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RogueMakeItems/RogueMakeItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RogueMakeItems/RogueMakeItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RogueMakeItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RogueMakeItems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +115,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BattleBot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../005 SPRING MICROSERVICES/MSSpring" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">

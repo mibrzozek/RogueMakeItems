@@ -13,7 +13,7 @@ public class RogueMakeItems
      *
      */
     private static String syntax, refSyntax, file;
-    private static final String ROGUE_PATH = "C:\\006 SOURCE\\01 JAVA PROJECTS\\02 JAVA PROJECTS\\RogueOne\\src\\items\\ItemFactory.java";
+    private static final String ROGUE_PATH = "C:\\006 SOURCE\\01 JAVA PROJECTS\\004 ROGUE ONE\\RogueOne\\src\\items\\ItemFactory.java";
 
     public static void main(String[] args)
     {

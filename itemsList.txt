@@ -242,10 +242,10 @@ COMMON
 conKit
 127
 paperGreen
-HEAD_HEALING
+HEALING
 Concussion Kit
 Nano compressed neck brace and brain stimulator. Neck brace administers local anesthetic to the back of the neck and connect directly to spine to facilitate brain repair.
-500
+450
 COMMON
 //
 helmet1
@@ -652,4 +652,904 @@ Aluminum Splint
 A sturdy splint. Good for improving mobility while on a fractured limb.
 2
 COMMON
+//
+kevlarTorso
+19
+gray
+TORSO
+Kevlar Body Armor
+Rugged armor made out of kevlar. Good for stopping low caliber bullets
+200
+COMMON
+//
+basicHelmet
+19
+gray
+HEAD
+Shell Helmet
+Standard issue helmet. Can stop a low caliber round sometimes.
+200
+COMMON
+//
+advancedHelmet
+19
+gray
+HEAD
+Rugged Helmet
+Advanced helmet. Can stop low to mid caliber rounds.
+400
+COMMON
+//
+heavyHelmet
+19
+gray
+HEAD
+Altyn
+Extremely armored helmet. Contains small eye holes to look through.
+600
+RARE
+//
+ceramicTorso
+19
+gray
+TORSO
+Ceramic Body Armor
+Full coverage ceramic body armor
+400
+COMMON
+//
+hybridTorso
+19
+gray
+TORSO
+Hybrid Body Armor
+Fll coverage synthetic and ceramic body armor with comfy fleece lining.
+600
+COMMON
+//
+basicTorso
+19
+gray
+TORSO
+Armored Shirt
+A cotton shirt with some armored parts. Synthetic bullet stopping armor that sometimes works.
+100
+COMMON
+//
+basicHelmetII
+19
+gray
+HEAD
+Tough Beanie
+A comfy beanie, with armor pieces. It'll help from random things falling on your head.
+100
+COMMON
+//
+leatherSleeves
+19
+gray
+ARMS
+Leather Sleeves
+Leather sleeves that will keep you warm and block some damage
+100
+COMMON
+//
+kevlarSleeves
+19
+gray
+ARMS
+Kevlar Sleeves
+Kevlar sleeves that will stop a bullet sometimes
+200
+COMMON
+//
+armorSleeves
+19
+gray
+ARMS
+Armor Sleeves
+Armor sleeves that will do a decent job of protecting your hands
+400
+COMMON
+//
+armorSleevesTwo
+19
+gray
+ARMS
+Advanced Sleeves
+Armor sleeves with advanced features that give you strength and will block most bullets
+600
+RARE
+//
+armorPants
+19
+gray
+LEGS
+Shielded Pants
+Comfy pants with synthetic armor patches, mostly around the groin
+100
+COMMON
+//
+kevlarPants
+19
+gray
+LEGS
+Kevlar Pants
+Less comfy pants with kevlar armor patches, mostly around the groin and knees.
+200
+COMMON
+//
+hybridPants
+19
+gray
+LEGS
+Hybrid Armor Pants
+Rigid pants that have near full protection from melee and projectiles. Kevlar and synthetic armor material with rugged knee pads.
+400
+COMMON
+//
+advancedPants
+19
+gray
+LEGS
+Advanced Marine Pants
+Advanced pants with nano tech that increases your legs speed and strength and provides the best armor coverage
+600
+RARE
+//
+serratedKnife
+56
+red
+MELEE
+Serrated Knife
+A serrated knife. Good for cutting bread.
+45
+COMMON
+//
+Cleaver
+56
+red
+MELEE
+Cleaver
+A cleaver. Excellent for cleaving. Two of these could really chop up some garlic.
+60
+COMMON
+//
+foldedSteelKnife
+56
+red
+MELEE
+Folded Steel Knife
+Knife made out of folded steel. Very tough. You will cut yourself using this knife.
+90
+COMMON
+//
+healKit1
+127
+paperGreen
+HEALING
+Big Bandage
+A small kit good for fixing a bleed or two.
+100
+COMMON
+//
+healKit2
+127
+paperGreen
+HEALING
+First Aid Kit
+A small kit good for fixing a bleed or five.
+150
+COMMON
+//
+healKit3
+127
+paperGreen
+HEALING
+Healing Kit
+A small kit good for fixing a bleed and anesthetizing.
+200
+COMMON
+//
+healKit4
+127
+paperGreen
+HEALING
+H.I.N.D Trauma Kit
+Help i'm nearly dead.
+300
+COMMON
+//
+healKit5
+127
+paperGreen
+HEALING
+Bio Hacking Kit
+For newly developed injuries and lifetime scars. Smooth over the wrinkles the bullets left in your skin.
+500
+RARE
+//
+uniqueKey
+98
+paperGreen
+UNIQUE
+Unique Key
+A unique key. The key to what's beyond.
+500
+COMMON
+//
+boltAction
+98
+red
+GUN
+Bolt Action Rifle
+A good old fashioned bolt action rifle.
+130
+COMMON
+//
+glock19
+98
+red
+GUN
+Glock 19
+A trusty glizzy
+100
+RARE
+//
+glockSupressor
+98
+red
+ATTACHMENT
+9mm Supressor
+Threaded to 5mm. Reduces loudness range
+50
+RARE
+//
+glockCompensator
+98
+red
+ATTACHMENT
+Glizzy Comp
+Increase accuracy and ergonomics
+50
+RARE
+//
+rmrRedDot
+98
+red
+ATTACHMENT
+RMR Red Dot Sight
+Increase range, accuracy, and makes your gun look cool.
+6
+RARE
+//
+baldProFlashlight
+98
+red
+ATTACHMENT
+Bald Pro Flash Light
+Blinds the enemy, decreasing their accuracy and give you some extra range.
+100
+RARE
+//
+blueLaser
+98
+red
+ATTACHMENT
+Blue Laser
+Increases range, accuracy, and makes your gun look cool.
+100
+RARE
+//
+glock19ExtendedMags
+98
+red
+ATTACHMENT
+Glock Extended Mags
+Increases ammo capacity
+33
+RARE
+//
+pstGZH
+98
+red
+AMMO_9MM
+9x19 PST GZH
+Tried and true
+30
+COMMON
+//
+apsx
+98
+red
+AMMO_46x30
+4.6 x 30 AP SX Ammo
+Navy seal issued armor piercing ammo
+30
+COMMON
+//
+pstGZH100
+98
+red
+AMMO_9MM
+9x19 PST GZH
+Tried and true
+100
+COMMON
+//
+redDotSight
+55
+red
+ATTACHMENT
+Red Dot Sight
+A nice sight increases aimed range by 5
+5
+COMMON
+//
+holoSight
+55
+red
+ATTACHMENT
+Holographic Sight
+A nicer sight increases aimed range by 7
+7
+COMMON
+//
+m4a1
+98
+red
+GUN
+Colt M4A1
+Americas most trusted rifle
+300
+RARE
+//
+m855556
+98
+red
+AMMO_556
+5.56 M855
+Low pen high availability 556 ammo
+100
+COMMON
+//
+ak74
+98
+red
+GUN
+Kalashnikova AK 74
+Russias most trusted rifle
+325
+RARE
+//
+ps762
+98
+red
+AMMO_762
+PS 7.62 Ammo
+Low pen high availability 762 ammo
+100
+COMMON
+//
+gunParts
+98
+red
+GUN_PARTS
+Random Gun Parts
+An assortment of random gun parts of different sorts
+1000
+RARE
+//
+pistolGunParts
+98
+red
+PISTOL_GUN_PARTS
+Pistol Gun Parts
+An assortment of random pistol parts. Just enough to make something work.
+1000
+RARE
+//
+rifleGunParts
+98
+red
+RIFLE_GUN_PARTS
+RIFLE Gun Parts
+An assortment of random rifle parts. Just enough to make something work.
+1000
+RARE
+//
+hkmp7
+98
+red
+GUN
+HK MP7
+Navy seals issued MP7
+220
+RARE
+//
+vector
+98
+red
+GUN
+Kriss Vector
+American made. True and reliable.
+190
+RARE
+//
+rpg
+98
+red
+GUN
+RPG
+Rocket Propelled Grenade. Quite inaccurate, highly deadly.
+2000
+RARE
+//
+P90
+98
+red
+GUN
+FN P90
+FN P90 is a SMG chambered for the 5.7×28mm cartridge. Belgian manufactured.
+280
+RARE
+//
+fiveSevenAmmo
+98
+red
+AMMO_57x28
+SS190 5.7 x 28mm
+Devastatingly belgian.
+150
+COMMON
+//
+rpgGrenade
+98
+red
+AMMO_RPG
+RPG Explosive
+Boom
+5
+COMMON
+//
+tacticalRig
+77
+blue
+INVENTORY
+Tactical Rig
+Chest rig for magazines, grenades, utilities, and other tactical facilities.
+5
+COMMON
+//
+bodySling
+77
+blue
+INVENTORY
+Body Sling
+Sling for hauling things on your back.
+6
+COMMON
+//
+morphine
+25
+green
+STIMULANT
+Morphine Syringe
+Stab yourself with this syringe and you'll be able to run full speed perfect form with broken legs.
+10
+COMMON
+//
+adrenaline
+25
+green
+STIMULANT
+Adrenaline Syringe
+Stab yourself with this syringe and you'll temporarily gain more head and torso vitality
+10
+COMMON
+//
+M1911
+98
+red
+GUN
+Colt M1911
+Chambered in .45, one of America's most trusty sidearms. Yeeehawk.
+145
+RARE
+//
+fortyFive
+98
+red
+AMMO_45
+Point 45 ACP
+Devastatingly American
+40
+COMMON
+//
+CZSHADOW
+98
+red
+GUN
+CZ 75 SP-01 Shadow
+An all time favorite amongst Eastern Europeans
+165
+RARE
+//
+chiefsSpecial
+98
+red
+GUN
+Chiefs Special
+A snub nosed revolver chambered for the .38 Special round.
+165
+COMMON
+//
+thirtyEight
+98
+red
+AMMO_38_SPECIAL
+Point 38 Special
+A popular revolver round.
+36
+COMMON
+//
+winchester
+98
+red
+GUN
+Winchester Model 1873
+Americas iconic rifle. Lever action. Reliable. Sexy. Chambered in .38 special.
+165
+RARE
+//
+kar98
+98
+red
+GUN
+KAR98K
+World war 2 bolt action rifle.
+165
+RARE
+//
+sevenSix51
+98
+red
+AMMO_762_51
+Seven Six Two Fifty One
+NATO peace keeping round
+25
+COMMON
+//
+glock18C
+98
+red
+GUN
+Glock G18C
+A fully automatic pistol by Glock
+130
+COMMON
+//
+hkUMP
+98
+red
+GUN
+HK UMP
+Another HK fan favorite. Snug. Accurate. Full auto.
+220
+COMMON
+//
+dvlSniper
+98
+red
+GUN
+DVL Saboteur
+Sleek and silent bolt action rifle
+450
+COMMON
+//
+mkMutant
+98
+red
+GUN
+Mk47 Mutant
+CMMGs modern AK.
+250
+COMMON
+//
+aug
+98
+red
+GUN
+Steyr AUG
+A gun that looks like it belongs in a 60s sci fi film
+235
+COMMON
+//
+kelTecKSG
+98
+red
+GUN
+KEL TEC KSG
+A fun full auto all American bull pup rifle
+190
+RARE
+//
+twelveGauge
+98
+red
+AMMO_12_GAUGE
+Buckshot
+Good for duck hunting and unarmored folks.
+20
+COMMON
+//
+weaponCharm
+5
+purple
+CHARM
+Weapon Charm
+A charm to garnish your weapon. A form of payment. A relic of the old world.
+1
+RARE
+//
+armorPlate3
+35
+red
+PLATE_3
+Armor Plate III
+An armor plate made to stop bullets
+200
+RARE
+//
+maxHealth
+43
+purple
+REGEN
+Vitality Syringe
+Drugs that heal you over time
+999
+RARE
+//
+monstrumSight
+145
+red
+ATTACHMENT
+Red Dot Sight
+Perfect sized scope for that 2X edge
+7
+RARE
+//
+lpvoVortex
+145
+red
+ATTACHMENT
+Vortex Razor LPVO
+A nice long range variable optic with 1x-6x magnification
+10
+RARE
+//
+lpvoBurris
+145
+red
+ATTACHMENT
+Burris Fulfield
+A nice long range variable optic with 1x-4x magnification
+9
+RARE
+//
+lpvoMarch
+145
+red
+ATTACHMENT
+March Tactical
+A long range variable optic with 6x-12x magnification
+12
+RARE
+//
+suppressor556
+145
+red
+ATTACHMENT
+5.56mm Silencer
+Made to silence NATO rounds
+4
+RARE
+//
+suppressor762
+145
+red
+ATTACHMENT
+7.62mm Silencer
+Made to silence soviet rounds
+4
+RARE
+//
+suppressor76251
+145
+red
+ATTACHMENT
+7.62x51 Silencer
+Made to silence big rounds
+4
+RARE
+//
+suppressor45
+145
+red
+ATTACHMENT
+.45 Silencer
+Made to silence small rounds
+4
+RARE
+//
+suppressor57
+145
+red
+ATTACHMENT
+5.7mm Silencer
+Made to silence medium rounds
+4
+RARE
+//
+foregripHorizontal
+145
+red
+ATTACHMENT
+Horizontal Fore Grip
+Helps control horizontal recoil
+10
+RARE
+//
+foregripVertical
+145
+red
+ATTACHMENT
+Vertical Fore Grip
+Helps control vertical recoil
+10
+RARE
+//
+foregripSway
+145
+red
+ATTACHMENT
+Tactical Fore Grip
+Helps steady the hands
+15
+RARE
+//
+Compensator762
+145
+red
+ATTACHMENT
+7.62mm Muzzle Compensator
+Helps with accuracy and makes your barrel look dangerous
+3
+RARE
+//
+Compensator556
+145
+red
+ATTACHMENT
+5.56mm Muzzle Compensator
+Helps with accuracy and makes your barrel look dangerous
+3
+RARE
+//
+ExtendedMags556
+145
+red
+ATTACHMENT
+5.56mm Extended Mags
+Gives you those extra bullets that you always need
+12
+RARE
+//
+ExtendedMags762
+145
+red
+ATTACHMENT
+7.62mm Extended Mags
+Gives you those extra bullets that you always need
+14
+RARE
+//
+ExtendedMags76251
+145
+red
+ATTACHMENT
+7.62x51 Extended Mags
+Gives you those extra bullets that you always need
+9
+RARE
+//
+compensator76251
+145
+red
+ATTACHMENT
+7.62x51 Compensator
+Helps keep your gun on target
+3
+RARE
+//
+shotgunCompensator
+145
+red
+ATTACHMENT
+Shotgun Compensator
+Steadies your trigger finger
+7
+RARE
+//
+shotgunChoke
+145
+red
+ATTACHMENT
+Shotgun Choke
+Tightens the spread of your buckshot
+10
+RARE
+//
+mags45
+145
+red
+ATTACHMENT
+45mm Extended Mags
+Gives your pistol that extra longetivity
+6
+RARE
+//
+compensator45
+145
+red
+ATTACHMENT
+45mm Compensator
+Gives your barrel that extra length
+4
+RARE
+//
+plateCarrier2
+69
+brown
+PLATE_CARRIER
+Plate Carrier Infantry
+Good for holding armor plates and has some extra storage
+2
+RARE
+//
+plateCarrier3
+69
+brown
+PLATE_CARRIER
+Plate Carrier Spec
+Good for holding armor plates and has some extra storage
+3
+RARE
+//
+plateCarrier4
+69
+brown
+PLATE_CARRIER
+Plate Carrier Operations
+Good for holding armor plates and has some extra storage
+4
+RARE
+//
+plateCarrier5
+69
+brown
+PLATE_CARRIER
+Plate Carrier Heavy
+Good for holding armor plates and has some extra storage
+5
+RARE
+//
+plateCarrier6
+69
+brown
+PLATE_CARRIER
+Plate Carrier Bomb Squad
+Good for holding armor plates and has some extra storage
+6
+RARE
 //
